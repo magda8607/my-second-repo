@@ -1,0 +1,17 @@
+.btns{
+  color: red;
+  font-size: 15px;
+  background-color: white;
+  margin-top: 5px;
+}
+#jumbo-ltrs{
+  font-size: 75px;
+  color: blue;
+}
+#jumbo{
+  background-color: black;
+}
+#sml-jumbo-ltrs{
+  color: white;
+  font-size: 25px;
+}
